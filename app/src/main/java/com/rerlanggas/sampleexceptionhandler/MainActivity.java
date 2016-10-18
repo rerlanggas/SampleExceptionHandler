@@ -9,6 +9,9 @@ import android.widget.Toast;
 
 import com.rerlanggas.lib.ExceptionHandler;
 
+/**
+ * Created by Rian Erlangga on 17/10/2016. with awesomeness
+ */
 public class MainActivity extends AppCompatActivity {
 
     Button btnForceClose;
