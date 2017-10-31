@@ -1,5 +1,5 @@
 # SampleExceptionHandler
-Sample code Android for use Library Exception Handler
+Sample code Android for using Library Exception Handler
 
 # Demo Video
 For Demo video Click this image
